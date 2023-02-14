@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"math"
 	mathrand "math/rand"
 	"net"

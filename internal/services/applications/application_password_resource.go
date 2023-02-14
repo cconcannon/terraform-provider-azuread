@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/base64"
 	"errors"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"net/http"
 	"strings"
 	"time"
