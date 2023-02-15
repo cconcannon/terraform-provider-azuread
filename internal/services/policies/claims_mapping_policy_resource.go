@@ -3,7 +3,7 @@ package policies
 import (
 	"context"
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"net/http"
 
 	"github.com/hashicorp/go-uuid"

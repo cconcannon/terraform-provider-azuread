@@ -3,7 +3,7 @@ package serviceprincipals
 import (
 	"context"
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"net/http"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
